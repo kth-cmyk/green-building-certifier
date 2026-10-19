@@ -51,7 +51,7 @@ function App() {
   return <div className="app-shell">
     <header className="topbar">
       <a className="brand" href="#top" aria-label="그린스코프 홈"><span className="brand-mark">✦</span><span>GREENSCOPE</span></a>
-      <nav><a href="#guide">평가 안내</a><a href="#form">계산 시작</a><a className="nav-pill" href="https://www.g-seed.or.kr/" target="_blank" rel="noreferrer">G-SEED 공식 사이트 ↗</a></nav>
+      <nav><a href="#guide">평가 안내</a><a href="#form">계산 시작</a><a className="nav-pill" href="https://www.gseed.or.kr/" target="_blank" rel="noreferrer">G-SEED 공식 사이트 ↗</a></nav>
     </header>
 
     <main id="top">
